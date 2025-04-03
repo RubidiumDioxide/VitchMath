@@ -1,0 +1,10 @@
+﻿  лаб1.cpp
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(12,31): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(16,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(20,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(24,14): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(93,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\лаб1.cpp(94,15): warning C4305: инициализация: усечение из "double" в "float"
+  лаб1.vcxproj -> C:\Users\User\storage\courses\вычислительная математика\лабы\1\лаб1\x64\Debug\лаб1.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

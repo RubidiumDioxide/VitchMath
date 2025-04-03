@@ -1,0 +1,80 @@
+﻿  lab3.cpp
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(102,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(105,14): warning C4305: инициализация: усечение из "double" в "float"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244: инициализация: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         ]
+  (компиляция исходного файла "lab3.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(11,38):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float,float,float>::tuple<double,double,double,0>(_This2 &&,double &&,double &&) noexcept"
+          with
+          [
+              _This2=double
+          ]
+              C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(11,38):
+              см. первую ссылку на std::tuple<float,float,float>::tuple "gIM"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(348,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&,_Ty &&)"
+          with
+          [
+              _Ty=double,
+              _Tag=std::_Exact_args_t,
+              _This2=double
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(302,102):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=float,
+              _Ty=double,
+              _Other=double
+          ]
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244: инициализация: преобразование "_Ty" в "_Ty", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:             _Ty=int
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         and
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:             _Ty=float
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47): warning C4244:         ]
+  (компиляция исходного файла "lab3.cpp")
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(132,47):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(34,42):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float,float,float>::tuple<int,int,int,0>(_This2 &&,int &&,int &&) noexcept"
+          with
+          [
+              _This2=int
+          ]
+              C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\lab3.cpp(34,42):
+              см. первую ссылку на std::tuple<float,float,float>::tuple "IM"
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(348,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<float,float,float>::tuple<std::_Exact_args_t,_Ty,_Ty,_Ty,0>(_Tag,_This2 &&,_Ty &&,_Ty &&)"
+          with
+          [
+              _Ty=int,
+              _Tag=std::_Exact_args_t,
+              _This2=int
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\tuple(302,102):
+          выполняется компиляция ссылки на экземпляр шаблон функции "std::_Tuple_val<_This>::_Tuple_val<_Ty>(_Other &&)"
+          with
+          [
+              _This=float,
+              _Ty=int,
+              _Other=int
+          ]
+  
+  lab3.vcxproj -> C:\Users\User\storage\courses\вычислительная математика\лабы\lab3\x64\Debug\lab3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

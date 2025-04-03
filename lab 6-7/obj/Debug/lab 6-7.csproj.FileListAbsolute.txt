@@ -1,0 +1,45 @@
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\libHarfBuzzSharp.dylib
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x86\libHarfBuzzSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x64\libHarfBuzzSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm64\libHarfBuzzSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\libSkiaSharp.dylib
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x64\libHarfBuzzSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm\libHarfBuzzSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm64\libHarfBuzzSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\musl-x64\libHarfBuzzSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\x64\libSkiaSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm\libSkiaSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\lab 6-7.exe.config
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\lab 6-7.exe
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\lab 6-7.pdb
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\HarfBuzzSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\ScottPlot.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Buffers.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Memory.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.ValueTuple.dll
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\HarfBuzzSharp.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\ScottPlot.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.pdb
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\SkiaSharp.HarfBuzz.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Buffers.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Memory.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\bin\Debug\System.ValueTuple.xml
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\obj\Debug\lab 6-7.csproj.AssemblyReference.cache
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\obj\Debug\lab 6-7.csproj.CoreCompileInputs.cache
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\obj\Debug\lab 6-7.csproj.Up2Date
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\obj\Debug\lab 6-7.exe
+C:\Users\User\storage\courses\вычислительная математика\лабы\lab 6-7\obj\Debug\lab 6-7.pdb
